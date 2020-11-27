@@ -2,3 +2,4 @@ ipywidgets
 pandas
 matplotlib
 uk_covid19
+voila
